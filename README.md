@@ -4,9 +4,9 @@ An understanding of the underlying mechanisms and the limitations of basic digit
 
 The material covers the following topics
 
- * Average Filter(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Average%20Filter)
- * Z_transform(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/z_transform)
- * FIR Filter(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/FIR%20Filter)
- * IIR Filter(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/IIR%20Filter)
- * Frequency Response(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Frequency%20Response)
- * Spectral analysis(https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Spectrum%20Analysis)
+ * Average Filter (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Average%20Filter)
+ * Z_transform (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/z_transform)
+ * FIR Filter (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/FIR%20Filter)
+ * IIR Filter (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/IIR%20Filter)
+ * Frequency Response (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Frequency%20Response)
+ * Spectral analysis (https://github.com/celinehsieh68/Digital_Signal_Processing/tree/main/Spectrum%20Analysis)
